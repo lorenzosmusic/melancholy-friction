@@ -9,7 +9,7 @@
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="64"/>
+      <ControlPoint type="track" route-id="584" automation-list-id="16072" parameter="parameter-1" view-index="10"/>
     </Selection>
     <RegionList/>
     <EditorLocations clock-mode="BBT"/>

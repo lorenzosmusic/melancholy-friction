@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="12626" name-counter="1" event-counter="42191" vca-counter="1">
+<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="16232" name-counter="1" event-counter="46213" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -119,6 +119,30 @@
     <Source name="Take40_vocals-1.wav" take-id="2023-05-09 00.51.07" type="audio" flags="" id="11370" timestamp="1683611467" natural-position="5759766" captured-for="vocals" channel="0" origin="" gain="1"/>
     <Source name="Take41_vocals-1.wav" take-id="2023-05-09 00.51.26" type="audio" flags="" id="11426" timestamp="1683611486" natural-position="6048518" captured-for="vocals" channel="0" origin="" gain="1"/>
     <Source name="Take42_vocals-1.wav" take-id="2023-05-09 00.51.37" type="audio" flags="" id="11482" timestamp="1683611497" natural-position="6048518" captured-for="vocals" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L%L.wav" take-id="" type="audio" flags="" id="15222" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R%R.wav" take-id="" type="audio" flags="" id="15224" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-2%L.wav" take-id="" type="audio" flags="" id="15256" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-2%R.wav" take-id="" type="audio" flags="" id="15258" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-3%L.wav" take-id="" type="audio" flags="" id="15290" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-3%R.wav" take-id="" type="audio" flags="" id="15292" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-4%L.wav" take-id="" type="audio" flags="" id="15323" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-4%R.wav" take-id="" type="audio" flags="" id="15325" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-5%L.wav" take-id="" type="audio" flags="" id="15418" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-5%R.wav" take-id="" type="audio" flags="" id="15420" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-6%L.wav" take-id="" type="audio" flags="" id="15445" natural-position="2910600" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-6%R.wav" take-id="" type="audio" flags="" id="15447" natural-position="2910600" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-7%L.wav" take-id="" type="audio" flags="" id="15472" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-7%R.wav" take-id="" type="audio" flags="" id="15474" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-8%L.wav" take-id="" type="audio" flags="" id="15506" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-8%R.wav" take-id="" type="audio" flags="" id="15508" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-9%L.wav" take-id="" type="audio" flags="" id="15554" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-9%R.wav" take-id="" type="audio" flags="" id="15556" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-10%L.wav" take-id="" type="audio" flags="" id="15581" natural-position="2910600" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-10%R.wav" take-id="" type="audio" flags="" id="15583" natural-position="2910600" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-11%L.wav" take-id="" type="audio" flags="" id="15608" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-11%R.wav" take-id="" type="audio" flags="" id="15610" natural-position="2976750" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%L-12%L.wav" take-id="" type="audio" flags="" id="15658" natural-position="2866500" channel="0" origin="" gain="1"/>
+    <Source name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music-2%R-12%R.wav" take-id="" type="audio" flags="" id="15660" natural-position="2866500" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music%L-L" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7306240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="170" type="audio" first-edit="nothing" source-0="166" master-source-0="166" channels="1"/>
@@ -208,12 +232,26 @@
     <Region name="Take41_vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="261104" position="6048518" beat="274.30920634920631" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11458" type="audio" first-edit="nothing" source-0="11426" master-source-0="11426" channels="1"/>
     <Region name="Take42_vocals-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="335344" position="6048518" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11506" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1"/>
     <Region name="Take42_vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="225175" position="6048518" beat="274.30920634920631" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11514" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1"/>
-    <Region name="Take42_vocals-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="157605" length="67570" position="6206123" beat="281.45682539682542" sync-position="153161" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11724" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1"/>
-    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7078050" length="44100" position="6284250" beat="285" sync-position="7068162" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11966" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Take42_vocals-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="157605" length="67570" position="6206123" beat="281.45682539682542" sync-position="157605" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11724" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="828780" length="6239382" position="34980" beat="1.5863945578231293" sync-position="828780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11957" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7078050" length="44100" position="6284250" beat="285" sync-position="7078050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11966" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3660300" length="3407862" position="2866500" beat="130" sync-position="3660300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15168" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3660300" length="154350" position="2866500" beat="130" sync-position="3660300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15190" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.8@6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="154350" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="154350" stretch="1" shift="0.0625" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15226" type="audio" first-edit="nothing" source-0="15222" source-1="15224" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.8@62" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="154350" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="154350" stretch="1" shift="0.62996053695678711" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15260" type="audio" first-edit="nothing" source-0="15256" source-1="15258" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.8@6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="154350" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="154350" stretch="1" shift="0.0625" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15294" type="audio" first-edit="nothing" source-0="15290" source-1="15292" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.8@50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="154350" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="154350" stretch="1" shift="0.5" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15327" type="audio" first-edit="nothing" source-0="15323" source-1="15325" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704400" length="110250" position="2910600" beat="132" sync-position="3704400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15364" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9@50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="44100" stretch="1" shift="0.5" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15422" type="audio" first-edit="nothing" source-0="15418" source-1="15420" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.11@25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="66150" position="2910600" beat="0" sync-position="0" ancestral-start="3704400" ancestral-length="66150" stretch="1" shift="0.25" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15449" type="audio" first-edit="nothing" source-0="15445" source-1="15447" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.12@200" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2976750" beat="0" sync-position="0" ancestral-start="3770550" ancestral-length="44100" stretch="1" shift="2" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15476" type="audio" first-edit="nothing" source-0="15472" source-1="15474" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.12@50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2976750" beat="0" sync-position="0" ancestral-start="3770550" ancestral-length="44100" stretch="1" shift="0.5" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15510" type="audio" first-edit="nothing" source-0="15506" source-1="15508" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9@89" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="44100" stretch="1" shift="0.89089870452880859" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15558" type="audio" first-edit="nothing" source-0="15554" source-1="15556" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.11@62" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="66150" position="2910600" beat="0" sync-position="0" ancestral-start="3704400" ancestral-length="66150" stretch="1" shift="0.62996053695678711" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15585" type="audio" first-edit="nothing" source-0="15581" source-1="15583" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.12@89" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2976750" beat="0" sync-position="0" ancestral-start="3770550" ancestral-length="44100" stretch="1" shift="0.89089870452880859" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15612" type="audio" first-edit="nothing" source-0="15608" source-1="15610" master-source-0="337" master-source-1="339" channels="2"/>
+    <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9@118" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="44100" stretch="1" shift="1.1892070770263672" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15662" type="audio" first-edit="nothing" source-0="15658" source-1="15660" master-source-0="337" master-source-1="339" channels="2"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="64" control="0" order="27"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="259" name="session" start="22050" end="6350400" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1681964094"/>
     <Location id="4175" name="Loop" start="352800" end="6328350" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1683438443"/>
@@ -449,6 +487,64 @@
         <Controllable name="Attack Time" id="4306" flags="" value="0.0099999997764825821" parameter="5" symbol="attack"/>
         <Controllable name="Release Time" id="4308" flags="" value="0.30000001192092896" parameter="6" symbol="release"/>
       </Processor>
+      <Processor id="15730" name="Rubber Band Stereo Pitch Shifter" active="1" user-latency="0" use-user-latency="0" type="ladspa" unique-id="9792" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-1" id="15731" interpolation-style="Linear" state="Play">
+            <events>0 0
+2866500 0
+2888550 -100
+2910600 100
+2919488 -88.888893127441406
+2932650 -100
+2945088 -100
+2954700 100
+2976750 -89.3359375
+2998800 -100
+3015514 100
+3028032 20.634910583496094
+6328350 0
+</events>
+          </AutomationList>
+          <AutomationList automation-id="parameter-2" id="15733" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15735" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="15737" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="15739" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="15741" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port number="1" value="0"/>
+          <Port number="2" value="0"/>
+          <Port number="3" value="0"/>
+          <Port number="4" value="3"/>
+          <Port number="5" value="0"/>
+          <Port number="6" value="0"/>
+        </ladspa>
+        <Controllable name="Cents" id="15732" flags="" value="0" parameter="1"/>
+        <Controllable name="Semitones" id="15734" flags="" value="0" parameter="2"/>
+        <Controllable name="Octaves" id="15736" flags="" value="0" parameter="3"/>
+        <Controllable name="Crispness" id="15738" flags="" value="3" parameter="4"/>
+        <Controllable name="Formant Preserving" id="15740" flags="Toggle" value="0" parameter="5"/>
+        <Controllable name="Wet-Dry Mix" id="15742" flags="" value="0" parameter="6"/>
+      </Processor>
       <Processor id="385" name="meter-Audio 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="386" name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
@@ -516,6 +612,61 @@
         </Automation>
         <Controllable name="gaincontrol" id="476" flags="GainLike" value="0.58829283714294434"/>
       </Processor>
+      <Processor id="15888" name="Rubber Band Mono Pitch Shifter" active="1" user-latency="0" use-user-latency="0" type="ladspa" unique-id="2979" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-1" id="15889" interpolation-style="Linear" state="Play">
+            <events>0 0
+2866500 0
+2888550 -100
+2903936 100
+2918272 -100
+2945920 -100
+2954700 90.4761962890625
+2976750 -57.142848968505859
+2987042 -100
+3008802 100
+3033344 0
+6328350 0
+</events>
+          </AutomationList>
+          <AutomationList automation-id="parameter-2" id="15891" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15893" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="15895" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="15897" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="15899" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port number="1" value="0"/>
+          <Port number="2" value="0"/>
+          <Port number="3" value="0"/>
+          <Port number="4" value="3"/>
+          <Port number="5" value="0"/>
+          <Port number="6" value="0"/>
+        </ladspa>
+        <Controllable name="Cents" id="15890" flags="" value="0" parameter="1"/>
+        <Controllable name="Semitones" id="15892" flags="" value="0" parameter="2"/>
+        <Controllable name="Octaves" id="15894" flags="" value="0" parameter="3"/>
+        <Controllable name="Crispness" id="15896" flags="" value="3" parameter="4"/>
+        <Controllable name="Formant Preserving" id="15898" flags="Toggle" value="0" parameter="5"/>
+        <Controllable name="Wet-Dry Mix" id="15900" flags="" value="0" parameter="6"/>
+      </Processor>
       <Processor id="506" name="meter-Audio 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="507" name="Audio 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Audio 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
@@ -582,6 +733,58 @@
           <AutomationList automation-id="gain" id="526" interpolation-style="Exponential" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="527" flags="GainLike" value="1.3338656425476074"/>
+      </Processor>
+      <Processor id="15994" name="Rubber Band Mono Pitch Shifter" active="1" user-latency="0" use-user-latency="0" type="ladspa" unique-id="2979" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-1" id="15995" interpolation-style="Linear" state="Play">
+            <events>0 0
+2866500 0
+2895059 -100
+2910600 100
+2954700 -100
+2976750 100
+3008839 100
+3042900 0
+6328350 0
+</events>
+          </AutomationList>
+          <AutomationList automation-id="parameter-2" id="15997" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15999" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="16001" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="16003" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="16005" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port number="1" value="0"/>
+          <Port number="2" value="0"/>
+          <Port number="3" value="0"/>
+          <Port number="4" value="3"/>
+          <Port number="5" value="0"/>
+          <Port number="6" value="0"/>
+        </ladspa>
+        <Controllable name="Cents" id="15996" flags="" value="0" parameter="1"/>
+        <Controllable name="Semitones" id="15998" flags="" value="0" parameter="2"/>
+        <Controllable name="Octaves" id="16000" flags="" value="0" parameter="3"/>
+        <Controllable name="Crispness" id="16002" flags="" value="3" parameter="4"/>
+        <Controllable name="Formant Preserving" id="16004" flags="Toggle" value="0" parameter="5"/>
+        <Controllable name="Wet-Dry Mix" id="16006" flags="" value="0" parameter="6"/>
       </Processor>
       <Processor id="557" name="meter-Audio 2" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="558" name="Audio 2" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Audio 2" type="main-outs" role="Main">
@@ -1135,6 +1338,60 @@
         <Controllable name="Quality factor 15" id="3081" flags="" value="0" parameter="171" symbol="q_15"/>
         <Controllable name="Hue 15" id="3083" flags="" value="0.9375" parameter="172" symbol="hue_15"/>
       </Processor>
+      <Processor id="16071" name="Rubber Band Mono Pitch Shifter" active="1" user-latency="0" use-user-latency="0" type="ladspa" unique-id="2979" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-1" id="16072" interpolation-style="Linear" state="Play">
+            <events>0 0
+2866500 0
+2877626 -100
+2910600 100
+2939236 -100
+2954700 96.825393676757812
+2976750 -100
+3020850 100
+3032919 100
+3051189 0
+6328350 0
+</events>
+          </AutomationList>
+          <AutomationList automation-id="parameter-2" id="16074" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="16076" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="16078" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="16080" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="16082" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port number="1" value="0"/>
+          <Port number="2" value="0"/>
+          <Port number="3" value="0"/>
+          <Port number="4" value="3"/>
+          <Port number="5" value="0"/>
+          <Port number="6" value="0"/>
+        </ladspa>
+        <Controllable name="Cents" id="16073" flags="" value="0" parameter="1"/>
+        <Controllable name="Semitones" id="16075" flags="" value="0" parameter="2"/>
+        <Controllable name="Octaves" id="16077" flags="" value="0" parameter="3"/>
+        <Controllable name="Crispness" id="16079" flags="" value="3" parameter="4"/>
+        <Controllable name="Formant Preserving" id="16081" flags="Toggle" value="0" parameter="5"/>
+        <Controllable name="Wet-Dry Mix" id="16083" flags="" value="0" parameter="6"/>
+      </Processor>
       <Processor id="618" name="meter-bass 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="619" name="bass 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="bass 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
@@ -1355,7 +1612,7 @@ Synth_Piano_3 sound</Comment>
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state3">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state3">
           <Port symbol="lv2_freewheel" value="0"/>
         </lv2>
         <Controllable name="hidden" id="8325" flags="Toggle" value="0" parameter="1" symbol="lv2_freewheel"/>
@@ -1566,44 +1823,192 @@ Synth_Piano_3 sound</Comment>
   </Routes>
   <Playlists>
     <Playlist id="396" name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music" type="audio" orig-track-id="351" pgroup-id="2023-04-19 23.15.31" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="828780" length="6239382" position="34980" beat="1.5863945578231293" sync-position="828780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11957" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="828780" length="2831520" position="34980" beat="1.5863945578231293" sync-position="828780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15159" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
         <Envelope>
-          <AutomationList automation-id="envelope" id="11963" interpolation-style="Exponential" state="Off">
+          <AutomationList automation-id="envelope" id="15165" interpolation-style="Exponential" state="Off">
             <events>0 1.0000002028267458
-6239382 1.000000203684605
+2831520 1.000000303684605
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="11958" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="15160" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="11959" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="15161" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="11960" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="15162" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="11961" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="15163" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7078050" length="10514" position="6284250" beat="285" sync-position="7078050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11997" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3660300" length="44100" position="2866500" beat="130" sync-position="3660300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15356" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="15362" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000303684605
+44100 1.0000004991553717
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="15357" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="15358" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="15359" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="15360" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704400" length="66150" position="2910600" beat="132" sync-position="3704400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15386" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="15392" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004991553717
+66150 1.0000005391553746
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="15387" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="15388" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="15389" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="15390" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3770550" length="44100" position="2976750" beat="135" sync-position="3770550" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15395" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="15401" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005391553746
+44100 1.0000003991553716
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="15396" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="15397" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="15398" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="15399" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3814650" length="3253512" position="3020850" beat="137" sync-position="3814650" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15199" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="15205" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000003991553716
+3253512 1.000000203684605
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="15200" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="15201" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="15202" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="15203" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7078050" length="10514" position="6284250" beat="285" sync-position="7078050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11997" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
         <Envelope>
           <AutomationList automation-id="envelope" id="12003" interpolation-style="Exponential" state="Off">
             <events>0 1.0000002852123071
@@ -1640,7 +2045,7 @@ Synth_Piano_3 sound</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7100100" length="22050" position="6306300" beat="286" sync-position="7088564" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="12006" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
+      <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7100100" length="22050" position="6306300" beat="286" sync-position="7100100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="12006" type="audio" first-edit="nothing" source-0="337" source-1="339" master-source-0="337" master-source-1="339" channels="2">
         <Envelope>
           <AutomationList automation-id="envelope" id="12012" interpolation-style="Exponential" state="Off">
             <events>0 1.0000003596718807
@@ -1997,7 +2402,7 @@ Synth_Piano_3 sound</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Take26_vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="100474" length="186230" position="3253624" beat="147.5566439909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10549" type="audio" first-edit="nothing" source-0="10516" master-source-0="10516" channels="1">
+      <Region name="Take26_vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="100474" length="186230" position="3253624" beat="147.5566439909297" sync-position="100474" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10549" type="audio" first-edit="nothing" source-0="10516" master-source-0="10516" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="10554" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001938167506
@@ -2356,7 +2761,7 @@ Synth_Piano_3 sound</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Take42_vocals-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="201136" length="24039" position="6249654" beat="283.43102040816325" sync-position="198207" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11834" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1">
+      <Region name="Take42_vocals-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="201136" length="24039" position="6249654" beat="283.43102040816325" sync-position="201136" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11834" type="audio" first-edit="nothing" source-0="11482" master-source-0="11482" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="11840" interpolation-style="Exponential" state="Off">
             <events>0 1.0000004202370345
@@ -2721,7 +3126,7 @@ Synth_Piano_3 sound</Comment>
       <ExportFormat id="13765a92-0ab8-464e-ac1b-a5320572bf7d"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="eqed-bass"/>
+        <Field name="label" enabled="1" value="added-vocal-idea"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -2754,27 +3159,35 @@ Synth_Piano_3 sound</Comment>
       <Window name="dsp-statistics" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="transport-masters" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-64" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-12063" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-351" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-472" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-523" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-584" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-8224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-64-4312" visible="0" x-off="56" y-off="368" x-size="466" y-size="522" custom-ui="1"/>
       <Window name="PM-64-4312" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-12063-12108" visible="0" x-off="826" y-off="0" x-size="920" y-size="379" custom-ui="1"/>
+      <Window name="PM-12063-12108" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-351-4294" visible="0" x-off="98" y-off="368" x-size="382" y-size="522" custom-ui="1"/>
       <Window name="PM-351-4294" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-584-2775" visible="0" x-off="855" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-584-2775" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-8224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-8224-9318" visible="0" x-off="371" y-off="190" x-size="348" y-size="375" custom-ui="0"/>
-      <Window name="PM-8224-9318" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4184-12045" visible="0" x-off="330" y-off="116" x-size="430" y-size="522" custom-ui="1"/>
+      <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
       <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-12063" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-12063-12108" visible="0" x-off="85" y-off="188" x-size="920" y-size="379" custom-ui="1"/>
-      <Window name="PM-12063-12108" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-8224-9318" visible="0" x-off="1112" y-off="0" x-size="348" y-size="375" custom-ui="1"/>
+      <Window name="PM-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-8224-9318" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-351-15730" visible="0" x-off="878" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
+      <Window name="PM-351-15730" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-472-15888" visible="0" x-off="878" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
+      <Window name="PM-472-15888" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-523-15994" visible="0" x-off="878" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
+      <Window name="PM-523-15994" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-584-16071" visible="0" x-off="878" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
+      <Window name="PM-584-16071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="200" visible="0"/>
@@ -2878,6 +3291,22 @@ Synth_Piano_3 sound</Comment>
             <Object id="control 4308" visible="0"/>
             <Object id="InlineDisplay" visible="1"/>
           </Object>
+          <Object id="processor 15691">
+            <Object id="control 15693" visible="0"/>
+            <Object id="control 15695" visible="0"/>
+            <Object id="control 15697" visible="0"/>
+            <Object id="control 15699" visible="0"/>
+            <Object id="control 15701" visible="0"/>
+            <Object id="control 15703" visible="0"/>
+          </Object>
+          <Object id="processor 15730">
+            <Object id="control 15732" visible="0"/>
+            <Object id="control 15734" visible="0"/>
+            <Object id="control 15736" visible="0"/>
+            <Object id="control 15738" visible="0"/>
+            <Object id="control 15740" visible="0"/>
+            <Object id="control 15742" visible="0"/>
+          </Object>
         </Object>
         <Object id="rtav 351" height="66" visible="1"/>
         <Object id="automation 355" height="66" visible="0"/>
@@ -2888,10 +3317,26 @@ Synth_Piano_3 sound</Comment>
           <Object id="processor 502">
             <Object id="control 476" visible="0"/>
           </Object>
+          <Object id="processor 15888">
+            <Object id="control 15890" visible="0"/>
+            <Object id="control 15892" visible="0"/>
+            <Object id="control 15894" visible="0"/>
+            <Object id="control 15896" visible="0"/>
+            <Object id="control 15898" visible="0"/>
+            <Object id="control 15900" visible="0"/>
+          </Object>
         </Object>
         <Object id="strip 523" visible="1">
           <Object id="processor 553">
             <Object id="control 527" visible="0"/>
+          </Object>
+          <Object id="processor 15994">
+            <Object id="control 15996" visible="0"/>
+            <Object id="control 15998" visible="0"/>
+            <Object id="control 16000" visible="0"/>
+            <Object id="control 16002" visible="0"/>
+            <Object id="control 16004" visible="0"/>
+            <Object id="control 16006" visible="0"/>
           </Object>
         </Object>
         <Object id="rtav 472" height="66" visible="1"/>
@@ -2952,6 +3397,14 @@ Synth_Piano_3 sound</Comment>
             <Object id="control 2837" visible="0"/>
             <Object id="control 2839" visible="0"/>
             <Object id="InlineDisplay" visible="1"/>
+          </Object>
+          <Object id="processor 16071">
+            <Object id="control 16073" visible="0"/>
+            <Object id="control 16075" visible="0"/>
+            <Object id="control 16077" visible="0"/>
+            <Object id="control 16079" visible="0"/>
+            <Object id="control 16081" visible="0"/>
+            <Object id="control 16083" visible="0"/>
           </Object>
         </Object>
         <Object id="strip 635" visible="1">
@@ -3132,6 +3585,10 @@ Synth_Piano_3 sound</Comment>
             <Object id="control 12142" visible="0"/>
           </Object>
         </Object>
+        <Object id="automation 15732" height="66" visible="1"/>
+        <Object id="automation 15890" height="66" visible="1"/>
+        <Object id="automation 15996" height="66" visible="1"/>
+        <Object id="automation 16073" height="66" visible="1"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
