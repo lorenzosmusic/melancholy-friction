@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="16234" name-counter="1" event-counter="46856" vca-counter="1">
+<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="19113" name-counter="1" event-counter="48310" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -251,7 +251,9 @@
     <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.12@89" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2976750" beat="0" sync-position="0" ancestral-start="3770550" ancestral-length="44100" stretch="1" shift="0.89089870452880859" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15612" type="audio" first-edit="nothing" source-0="15608" source-1="15610" master-source-0="337" master-source-1="339" channels="2"/>
     <Region name="Vampin' on Melancholy Piano &amp; Drums (Live Stream Clip) Lorenzo's Music.9@118" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="44100" position="2866500" beat="0" sync-position="0" ancestral-start="3660300" ancestral-length="44100" stretch="1" shift="1.1892070770263672" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15662" type="audio" first-edit="nothing" source-0="15658" source-1="15660" master-source-0="337" master-source-1="339" channels="2"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="4184" control="0" order="3"/>
+  </Selection>
   <Locations>
     <Location id="259" name="session" start="22050" end="6350400" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1681964094"/>
     <Location id="4175" name="Loop" start="352800" end="6328350" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1683438443"/>
@@ -1542,7 +1544,6 @@
       <Controllable name="solo-safe" id="8240" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Yoshimi" id="8252" direction="Input" default-type="midi">
         <Port type="midi" name="Yoshimi/midi_in 1">
-          <Connection other="a2j:UMC1820 [20] (capture): UMC1820 MIDI 1"/>
           <Connection other="x-virtual-keyboard"/>
         </Port>
       </IO>
@@ -3082,7 +3083,7 @@ Synth_Piano_3 sound</Comment>
       <Automation>
         <AutomationList automation-id="gain" id="59" interpolation-style="Exponential" state="Off"/>
       </Automation>
-      <Controllable name="gaincontrol" id="60" flags="GainLike" value="1.2049468755722046"/>
+      <Controllable name="gaincontrol" id="60" flags="GainLike" value="1.6032533645629883"/>
     </Processor>
   </Click>
   <Speakers>
@@ -3171,23 +3172,23 @@ Synth_Piano_3 sound</Comment>
       <Window name="P-12063-12108" visible="0" x-off="826" y-off="0" x-size="920" y-size="379" custom-ui="1"/>
       <Window name="PM-12063-12108" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-351-4294" visible="0" x-off="98" y-off="368" x-size="382" y-size="522" custom-ui="1"/>
+      <Window name="P-351-15730" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
       <Window name="PM-351-4294" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-351-15730" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-472-15888" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
+      <Window name="PM-472-15888" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-523-15994" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
+      <Window name="PM-523-15994" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-584-2775" visible="0" x-off="855" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
+      <Window name="P-584-16071" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
       <Window name="PM-584-2775" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-584-16071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
       <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-8224-9318" visible="0" x-off="1112" y-off="0" x-size="348" y-size="375" custom-ui="1"/>
       <Window name="PM-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-8224-9318" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-351-15730" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
-      <Window name="PM-351-15730" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-472-15888" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
-      <Window name="PM-472-15888" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-523-15994" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
-      <Window name="PM-523-15994" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-584-16071" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="0"/>
-      <Window name="PM-584-16071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="200" visible="0"/>
