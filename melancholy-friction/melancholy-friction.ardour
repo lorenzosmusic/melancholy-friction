@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="33686" name-counter="1" event-counter="69947" vca-counter="1">
+<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="41304" name-counter="1" event-counter="74063" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -274,7 +274,9 @@
     <Region name="Take44_bg vocals-1.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1146384" length="87008" position="6262200" beat="284" sync-position="1146384" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29605" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1157877" length="75515" position="6273693" beat="285" sync-position="1157877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29679" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="472" control="0" order="1"/>
+  </Selection>
   <Locations>
     <Location id="259" name="session" start="22050" end="6350400" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1681964094"/>
     <Location id="4175" name="Loop" start="352800" end="6328350" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1683438443"/>
@@ -697,14 +699,14 @@
         </OutputMap-0>
         <ThruMap/>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port number="1" value="10.609135627746582"/>
+          <Port number="1" value="0"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
           <Port number="4" value="3"/>
           <Port number="5" value="0"/>
           <Port number="6" value="0"/>
         </ladspa>
-        <Controllable name="Cents" id="15732" flags="" value="10.609135627746582" parameter="1"/>
+        <Controllable name="Cents" id="15732" flags="" value="0" parameter="1"/>
         <Controllable name="Semitones" id="15734" flags="" value="0" parameter="2"/>
         <Controllable name="Octaves" id="15736" flags="" value="0" parameter="3"/>
         <Controllable name="Crispness" id="15738" flags="" value="3" parameter="4"/>
@@ -818,7 +820,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port number="1" value="0"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
@@ -937,7 +939,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port number="1" value="0"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
@@ -1543,7 +1545,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port number="1" value="0"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
@@ -4489,13 +4491,13 @@ Synth_Piano_3 sound</Comment>
       <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="mix-vocal-drum-eqs"/>
+        <Field name="label" enabled="1" value="keys"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
-        <Field name="timespan" enabled="1"/>
+        <Field name="timespan" enabled="0"/>
         <Field name="revision" enabled="0"/>
         <Field name="time" enabled="0" value="T_None"/>
-        <Field name="date" enabled="1" value="D_BEShortY"/>
+        <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </ExportProfile>
     <UI>
@@ -4528,15 +4530,10 @@ Synth_Piano_3 sound</Comment>
       <Window name="RPM-523" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-584" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-28555" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-8224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-64-25354" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
       <Window name="PM-64-25354" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4184-21992" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="P-4184-25380" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
-      <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
-      <Window name="PM-4184-21992" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4184-25380" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-12063-22062" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="P-12063-12108" visible="0" x-off="826" y-off="0" x-size="920" y-size="379" custom-ui="1"/>
       <Window name="P-12063-22132" visible="0" x-off="753" y-off="0" x-size="544" y-size="711" custom-ui="1"/>
@@ -4557,13 +4554,18 @@ Synth_Piano_3 sound</Comment>
       <Window name="P-584-16071" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
       <Window name="PM-584-2775" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-584-16071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4184-21992" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-4184-25380" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
+      <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
+      <Window name="PM-4184-21992" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4184-25380" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28555-28736" visible="0" x-off="606" y-off="196" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-28555-28736" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-8224-9318" visible="0" x-off="1112" y-off="0" x-size="348" y-size="375" custom-ui="1"/>
       <Window name="PM-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-8224-9318" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-28555" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28555-28736" visible="0" x-off="606" y-off="196" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-28555-28736" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="200" visible="0"/>

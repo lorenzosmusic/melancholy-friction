@@ -80,8 +80,8 @@
     <StatefulDiffCommand obj-id="28600" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="29362"/>
           <Add id="29353"/>
+          <Add id="29362"/>
           <Remove id="29271"/>
         </Regions>
       </Changes>
@@ -195,8 +195,8 @@
     <StatefulDiffCommand obj-id="28600" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="29442"/>
           <Add id="29433"/>
+          <Add id="29442"/>
           <Remove id="29399"/>
         </Regions>
       </Changes>
@@ -270,8 +270,8 @@
     <StatefulDiffCommand obj-id="28600" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="29539"/>
           <Add id="29530"/>
+          <Add id="29539"/>
           <Remove id="29442"/>
         </Regions>
       </Changes>

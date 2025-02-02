@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="29822" name-counter="1" event-counter="69782" vca-counter="1">
+<Session version="6000" name="melancholy-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="37493" name-counter="1" event-counter="71158" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -255,28 +255,26 @@
     <Region name="Take43_bg vocals-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22512" position="5115600" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28617" type="audio" first-edit="nothing" source-0="28602" master-source-0="28602" channels="1"/>
     <Region name="Take43_bg vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22512" position="5115600" beat="232" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28625" type="audio" first-edit="nothing" source-0="28602" master-source-0="28602" channels="1"/>
     <Region name="Take44_bg vocals-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1233392" position="5115600" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28675" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="132300" length="1101092" position="5247900" beat="238" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28683" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="132300" length="1101092" position="5247900" beat="238" sync-position="132300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28683" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="149984" length="1083408" position="5265584" beat="239" sync-position="149984" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28835" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="222893" length="1010499" position="5338493" beat="242.10852607709751" sync-position="191717" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28878" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="259901" length="973491" position="5375501" beat="243.78689342403626" sync-position="256517" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28920" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="418950" length="814442" position="5534550" beat="251" sync-position="330750" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28964" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="222893" length="1010499" position="5338493" beat="242.10852607709751" sync-position="222893" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28878" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="259901" length="973491" position="5375501" beat="243.78689342403626" sync-position="259901" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28920" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="418950" length="814442" position="5534550" beat="251" sync-position="418950" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28964" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="437813" length="795579" position="5553413" beat="252" sync-position="437813" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29010" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="507150" length="726242" position="5622750" beat="255" sync-position="476603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29047" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="544175" length="689217" position="5659775" beat="256.67913832199542" sync-position="540863" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29097" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="724139" length="509253" position="5839739" beat="264.84077097505667" sync-position="720539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29161" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="827711" length="405681" position="5943311" beat="269.53791383219954" sync-position="824975" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29215" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="989783" length="243609" position="6105383" beat="276.88811791383216" sync-position="898631" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29271" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="507150" length="726242" position="5622750" beat="255" sync-position="507150" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29047" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="544175" length="689217" position="5659775" beat="256.67913832199542" sync-position="544175" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29097" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="724139" length="509253" position="5839739" beat="264.84077097505667" sync-position="724139" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29161" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="827711" length="405681" position="5943311" beat="269.53791383219954" sync-position="827711" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29215" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="989783" length="243609" position="6105383" beat="276.88811791383216" sync-position="989783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29271" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1006883" length="226509" position="6122483" beat="278" sync-position="1006883" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29362" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1006883" length="46332" position="6125075" beat="277.78117913832199" sync-position="1006883" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29390" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1053215" length="180177" position="6171407" beat="279.88240362811791" sync-position="1053215" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29399" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1087931" length="145461" position="6206123" beat="281.45682539682542" sync-position="1083487" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29442" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1131462" length="101930" position="6249654" beat="283.43102040816325" sync-position="1128533" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29539" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
-    <Region name="Take44_bg vocals-1.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1146384" length="87008" position="6262200" beat="284" sync-position="1144008" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29605" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1087931" length="145461" position="6206123" beat="281.45682539682542" sync-position="1087931" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29442" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1131462" length="101930" position="6249654" beat="283.43102040816325" sync-position="1131462" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29539" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
+    <Region name="Take44_bg vocals-1.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1146384" length="87008" position="6262200" beat="284" sync-position="1146384" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29605" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
     <Region name="Take44_bg vocals-1.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1157877" length="75515" position="6273693" beat="285" sync-position="1157877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29679" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="28555" control="0" order="7"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="259" name="session" start="22050" end="6350400" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1681964094"/>
     <Location id="4175" name="Loop" start="352800" end="6328350" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1683438443"/>
@@ -699,14 +697,14 @@
         </OutputMap-0>
         <ThruMap/>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port number="1" value="10.609135627746582"/>
+          <Port number="1" value="-4.7165532112121582"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
           <Port number="4" value="3"/>
           <Port number="5" value="0"/>
           <Port number="6" value="0"/>
         </ladspa>
-        <Controllable name="Cents" id="15732" flags="" value="10.609135627746582" parameter="1"/>
+        <Controllable name="Cents" id="15732" flags="" value="-4.7165532112121582" parameter="1"/>
         <Controllable name="Semitones" id="15734" flags="" value="0" parameter="2"/>
         <Controllable name="Octaves" id="15736" flags="" value="0" parameter="3"/>
         <Controllable name="Crispness" id="15738" flags="" value="3" parameter="4"/>
@@ -821,14 +819,14 @@
         </OutputMap-0>
         <ThruMap/>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port number="1" value="0"/>
+          <Port number="1" value="-4.7165532112121582"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
           <Port number="4" value="3"/>
           <Port number="5" value="0"/>
           <Port number="6" value="0"/>
         </ladspa>
-        <Controllable name="Cents" id="15890" flags="" value="0" parameter="1"/>
+        <Controllable name="Cents" id="15890" flags="" value="-4.7165532112121582" parameter="1"/>
         <Controllable name="Semitones" id="15892" flags="" value="0" parameter="2"/>
         <Controllable name="Octaves" id="15894" flags="" value="0" parameter="3"/>
         <Controllable name="Crispness" id="15896" flags="" value="3" parameter="4"/>
@@ -940,14 +938,14 @@
         </OutputMap-0>
         <ThruMap/>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port number="1" value="0"/>
+          <Port number="1" value="-3.6415841579437256"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
           <Port number="4" value="3"/>
           <Port number="5" value="0"/>
           <Port number="6" value="0"/>
         </ladspa>
-        <Controllable name="Cents" id="15996" flags="" value="0" parameter="1"/>
+        <Controllable name="Cents" id="15996" flags="" value="-3.6415841579437256" parameter="1"/>
         <Controllable name="Semitones" id="15998" flags="" value="0" parameter="2"/>
         <Controllable name="Octaves" id="16000" flags="" value="0" parameter="3"/>
         <Controllable name="Crispness" id="16002" flags="" value="3" parameter="4"/>
@@ -1546,14 +1544,14 @@
         </OutputMap-0>
         <ThruMap/>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port number="1" value="0"/>
+          <Port number="1" value="-9.3474740982055664"/>
           <Port number="2" value="0"/>
           <Port number="3" value="0"/>
           <Port number="4" value="3"/>
           <Port number="5" value="0"/>
           <Port number="6" value="0"/>
         </ladspa>
-        <Controllable name="Cents" id="16073" flags="" value="0" parameter="1"/>
+        <Controllable name="Cents" id="16073" flags="" value="-9.3474740982055664" parameter="1"/>
         <Controllable name="Semitones" id="16075" flags="" value="0" parameter="2"/>
         <Controllable name="Octaves" id="16077" flags="" value="0" parameter="3"/>
         <Controllable name="Crispness" id="16079" flags="" value="3" parameter="4"/>
@@ -3978,7 +3976,7 @@ Synth_Piano_3 sound</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Take44_bg vocals-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1026936" length="26279" position="6145128" beat="278.69061224489792" sync-position="1024272" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29762" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1">
+      <Region name="Take44_bg vocals-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1026936" length="26279" position="6145128" beat="278.69061224489792" sync-position="1026936" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="29762" type="audio" first-edit="nothing" source-0="28665" master-source-0="28665" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="29768" interpolation-style="Exponential" state="Off">
             <events>0 1.0000009884524268
@@ -4491,13 +4489,13 @@ Synth_Piano_3 sound</Comment>
       <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="mix-vocal-drum-eqs"/>
+        <Field name="label" enabled="1" value="drums-keys-live-stream"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
-        <Field name="timespan" enabled="1"/>
+        <Field name="timespan" enabled="0"/>
         <Field name="revision" enabled="0"/>
         <Field name="time" enabled="0" value="T_None"/>
-        <Field name="date" enabled="1" value="D_BEShortY"/>
+        <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </ExportProfile>
     <UI>
@@ -4530,15 +4528,10 @@ Synth_Piano_3 sound</Comment>
       <Window name="RPM-523" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-584" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-28555" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-8224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-64-25354" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
       <Window name="PM-64-25354" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4184-21992" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="P-4184-25380" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
-      <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
-      <Window name="PM-4184-21992" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4184-25380" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-12063-22062" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="P-12063-12108" visible="0" x-off="826" y-off="0" x-size="920" y-size="379" custom-ui="1"/>
       <Window name="P-12063-22132" visible="0" x-off="753" y-off="0" x-size="544" y-size="711" custom-ui="1"/>
@@ -4559,13 +4552,18 @@ Synth_Piano_3 sound</Comment>
       <Window name="P-584-16071" visible="0" x-off="787" y-off="0" x-size="570" y-size="273" custom-ui="1"/>
       <Window name="PM-584-2775" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-584-16071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4184-21992" visible="0" x-off="641" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-4184-25380" visible="0" x-off="1061" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
+      <Window name="P-4184-12045" visible="0" x-off="1071" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
+      <Window name="PM-4184-21992" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4184-25380" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4184-12045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28555-28736" visible="0" x-off="606" y-off="196" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-28555-28736" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-8224-9318" visible="0" x-off="1112" y-off="0" x-size="348" y-size="375" custom-ui="1"/>
       <Window name="PM-8224-8323" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-8224-9318" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-28555" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28555-28736" visible="0" x-off="606" y-off="196" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-28555-28736" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="200" visible="0"/>
